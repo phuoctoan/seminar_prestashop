@@ -1,0 +1,13 @@
+.tags_block .block_content {
+  overflow: hidden; }
+  .tags_block .block_content a {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: bold;
+    padding: 5px 9px 5px 9px;
+    border-right: 1px solid #d6d4d4;
+    float: left;
+    margin: 0 3px 3px 0; }
+    .tags_block .block_content a:hover {
+      text-decoration: underline;}

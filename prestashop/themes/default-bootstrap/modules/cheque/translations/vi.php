@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cheque}default-bootstrap>payment_execution_8520b283b0884394b13b80d5689628b3'] = 'Kiểm tra thanh toán';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_f1d3b424cd68795ecaa552883759aceb'] = 'Tóm lược đơn hàng';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_879f6b8877752685a966564d072f498f'] = 'Giỏ hàng của bạn rỗng.';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_060bf2d587991d8f090a1309b285291c'] = 'Kiểm tra';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_76ca011e4772bfcce26aecd42c598510'] = 'Bạn đã chọn phương thức thanh toán bằng séc.';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_c884ed19483d45970c5bf23a681e2dd2'] = 'Dưới đây là tóm lược đơn hàng của bạn :';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_3b3b41f131194e747489ef93e778ed0d'] = 'Tổng số tiền đặt hàng của bạn đên : ';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_1f87346a16cf80c372065de3c54c86d9'] = '(bao gồm thuế)';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_7b1c6e78d93817f61f2b1bbc2108a803'] = 'Chúng tôi chấp nhận 1 số loại tiền được thanh toán bằng séc.';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'Chọn 1 trong các cách sau : ';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_f73ad0f08052884ff465749bf48b55ce'] = 'Chúng tôi chấp nhận các loại tiền tệ sau được gửi bằng séc : ';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_7135ff14c7931e1c8e9d33aff3dfc7f7'] = 'Kiểm tra chủ sở hữu và thông tin địa chỉ ở trang kế tiếp.';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Vui lòng xác nhận đơn hàng bằng cách click vào \"Tôi xác nhận đơn hàng\"';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Tôi xác nhận đơn hàng';
+$_MODULE['<{cheque}default-bootstrap>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Phương thức thanh toán khác';
+$_MODULE['<{cheque}default-bootstrap>payment_f05fd8637f8a6281466a507fcb56baec'] = 'Thanh toán bằng séc.';
+$_MODULE['<{cheque}default-bootstrap>payment_4b80fae2153218ed763bdadc418e8589'] = 'Thanh toán bằng séc';
+$_MODULE['<{cheque}default-bootstrap>payment_4e1fb9f4b46556d64db55d50629ee301'] = '(xử lý đơn hàng sẽ lâu hơn)';
+$_MODULE['<{cheque}default-bootstrap>payment_return_88526efe38fd18179a127024aba8c1d7'] = 'Đặt hàng thành công.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_61da27a5dd1f8ced46c77b0feaa9e159'] = 'Séc của bạn bao gồm : ';
+$_MODULE['<{cheque}default-bootstrap>payment_return_621455d95c5de701e05900a98aaa9c66'] = 'Số tiền thanh toán.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_9b8f932b1412d130ece5045ecafd1b42'] = 'Phải trả cho : ';
+$_MODULE['<{cheque}default-bootstrap>payment_return_9a94f1d749a3de5d299674d6c685e416'] = 'Mail đến : ';
+$_MODULE['<{cheque}default-bootstrap>payment_return_e1c54fdba2544646684f41ace03b5fda'] = 'Đừng quên thêm số thứ tự đơn hàng của bạn #%d.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_4761b03b53bc2b3bd948bb7443a26f31'] = 'Đừng quên thêm số đơn hàng của bạn %s.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_610abe74e72f00210e3dcb91a0a3f717'] = '1 email đã gửi tới bạn với những thông tin này.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_ffd2478830ca2f519f7fe7ee259d4b96'] = 'Đơn hàng của bạn sẽ được thanh toán ngay sau khi chúng tôi nhận được thanh toán từ bạn.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Nếu có câu hỏi hay để biết thêm thông tin, vui lòng liên hệ với chúng tôi';
+$_MODULE['<{cheque}default-bootstrap>payment_return_decce112a9e64363c997b04aa71b7cb8'] = 'bộ phận dịch vụ khách hàng.';
+$_MODULE['<{cheque}default-bootstrap>payment_return_9bdf695c5a30784327137011da6ef568'] = 'Chúng tôi nhận thấy có một vấn đề với đơn hàng của bạn. Nếu bạn nghĩ rằng đây là một lỗi, bạn có thể liên hệ với chúng tôi';
